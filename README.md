@@ -3,6 +3,10 @@ Ambient-To-CWOP
 
 Heroku deployment-ready Python script for sending data packets to the [Citizen Observer Weather Program](https://www.weather.gov/media/epz/mesonet/CWOP-OfficialGuide.pdf) (CWOP) from an Ambient Weather personal weather station. This script utilizes Ambient Weather Network's public API. Once configured, this script will send a properly formatted CWOP packet automatically every 10 minutes (or longer). While this script can run on any device that supports Python, these instructions are for hosting it on a free Heroku dyno.
 
+### 20 FEB 2023 Update
+
+Ambient-To-CWOP project has reached an end-of-life cycle and is being archives. Should you need a simple replacement with more functions and no hosting requirements, take a look at https://ambientcwop.com. 
+
 ## Setup, Install, and Deployment
 
 ### Requirements
