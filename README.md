@@ -5,7 +5,7 @@ Heroku deployment-ready Python script for sending data packets to the [Citizen O
 
 ### 20 FEB 2023 Update
 
-Ambient-To-CWOP project has reached an end-of-life cycle and is being archives. Should you need a simple replacement with more functions and no hosting requirements, take a look at https://ambientcwop.com. 
+Ambient-To-CWOP project has reached its end-of-life cycle and is being archived. Should you need a simple replacement with more functions and no hosting requirements, take a look at https://ambientcwop.com. 
 
 ## Setup, Install, and Deployment
 
